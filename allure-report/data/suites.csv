@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Oct 07 18:25:59 IST 2025","Tue Oct 07 18:26:10 IST 2025","10931","chromium","TC_3_RetryTest.spec.js","","","","Retry Test",""
+"passed","Tue Oct 07 18:22:50 IST 2025","Tue Oct 07 18:23:02 IST 2025","12055","chromium","TC_3_RetryTest.spec.js","","","","Multiple Pages Test",""
+"passed","Tue Oct 07 18:47:39 IST 2025","Tue Oct 07 18:47:39 IST 2025","119","firefox","TC_API_Tests.spec.js","","","","Get users",""
+"passed","Tue Oct 07 18:47:39 IST 2025","Tue Oct 07 18:47:40 IST 2025","166","chromium","TC_API_Tests.spec.js","","","","Get users",""
+"passed","Tue Oct 07 18:15:02 IST 2025","Tue Oct 07 18:15:17 IST 2025","15225","chromium","TC_2_MultiplePages.spec.js","","","","Multiple Pages Test",""
