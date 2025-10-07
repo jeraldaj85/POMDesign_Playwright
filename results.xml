@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="12.295024">
+<testsuite name="TC_2_MultiplePages.spec.js" timestamp="2025-10-07T12:03:12.330Z" hostname="chromium" tests="1" failures="0" skipped="0" time="11.525" errors="0">
+<testcase name="Multiple Pages Test" classname="TC_2_MultiplePages.spec.js" time="11.525">
+</testcase>
+</testsuite>
+<testsuite name="TC_2_MultiplePages.spec.js" timestamp="2025-10-07T12:03:12.330Z" hostname="firefox" tests="1" failures="0" skipped="0" time="10.941" errors="0">
+<testcase name="Multiple Pages Test" classname="TC_2_MultiplePages.spec.js" time="10.941">
+</testcase>
+</testsuite>
+</testsuites>

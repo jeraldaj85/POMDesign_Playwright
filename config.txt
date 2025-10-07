@@ -1,0 +1,21 @@
+***************Configurations**************
+
+1. Allure Install Playwright
+ 
+ Pre Reqs:
+   a)Install command line: npm i -D @playwright/test allure-playwright
+   b)Allure  command line: npm install -g allure-commandline --save-dev (Access required)
+
+"allure-playwright": "^3.4.1" - package.json will be updated
+
+  reporter: [['allure-playwright', { outputFile: 'allure-results' }]],
+
+allure generate allure-results -o allure-report --clean (This generates allure report with folder)
+
+allure open allure-report (To open report)
+
+2. Command-Line execution for playwright report
+npx playwright test TC_1_FeatureTest.spec.js --project=chromium --headed    
+
+3. Retry Tests
+retries: 1, (change it in paywright.config.js)
